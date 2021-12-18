@@ -1,0 +1,7 @@
+{
+  "importSorter.generalConfiguration.sortOnBeforeSave": true,
+  "importSorter.importStringConfiguration.maximumNumberOfImportExpressionsPerLine.count": 3,
+  "importSorter.importStringConfiguration.numberOfEmptyLinesAfterAllImports": 0,
+  "importSorter.sortConfiguration.removeUnusedDefaultImports": false,
+  "importSorter.sortConfiguration.removeUnusedImports": true
+}
